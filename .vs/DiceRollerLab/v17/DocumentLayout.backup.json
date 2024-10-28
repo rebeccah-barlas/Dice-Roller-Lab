@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barla\\source\\repos\\DiceRollerLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEDB9F6-0354-499F-92ED-1902FF0E49E7}|DiceRollerLab\\DiceRollerLab.csproj|c:\\users\\barla\\source\\repos\\dicerollerlab\\dicerollerlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEDB9F6-0354-499F-92ED-1902FF0E49E7}|DiceRollerLab\\DiceRollerLab.csproj|solutionrelative:dicerollerlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\DiceRollerLab\\DiceRollerLab\\Program.cs",
+              "RelativeDocumentMoniker": "DiceRollerLab\\Program.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\DiceRollerLab\\DiceRollerLab\\Program.cs",
+              "RelativeToolTip": "DiceRollerLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:53:59.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

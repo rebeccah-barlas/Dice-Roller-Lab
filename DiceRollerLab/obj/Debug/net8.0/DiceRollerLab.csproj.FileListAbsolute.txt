@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\bin\Debug\net8.0\DiceRollerLab.exe
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\bin\Debug\net8.0\DiceRollerLab.deps.json
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\bin\Debug\net8.0\DiceRollerLab.runtimeconfig.json
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\bin\Debug\net8.0\DiceRollerLab.dll
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\bin\Debug\net8.0\DiceRollerLab.pdb
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.AssemblyInfo.cs
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.dll
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\refint\DiceRollerLab.dll
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.pdb
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\DiceRollerLab.genruntimeconfig.cache
+C:\Users\barla\source\repos\DiceRollerLab\DiceRollerLab\obj\Debug\net8.0\ref\DiceRollerLab.dll
